@@ -1,8 +1,8 @@
 
-# Deployed on Hekroku 
+# Deployed on Heroku 
 Link : https://amazingtravels.herokuapp.com/
 
-
+![image](https://user-images.githubusercontent.com/82327479/177370434-640c1e02-9b1e-4663-bc60-3b77b3ce21af.png)
 
 
 # Getting Started with Create React App
