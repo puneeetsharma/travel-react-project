@@ -4,6 +4,14 @@ Link : https://amazingtravels.herokuapp.com/
 
 ![image](https://user-images.githubusercontent.com/82327479/177370434-640c1e02-9b1e-4663-bc60-3b77b3ce21af.png)
 
+![image](https://user-images.githubusercontent.com/82327479/177370800-31fa370c-7064-4f49-9f2b-90a05899768b.png)
+
+![image](https://user-images.githubusercontent.com/82327479/177370843-7c8033fd-a9c1-4097-8aa8-5655b5b29e6a.png)
+
+![image](https://user-images.githubusercontent.com/82327479/177370864-f076adb0-ab4a-47ff-9354-280cecca5314.png)
+
+
+
 
 # Getting Started with Create React App
 
